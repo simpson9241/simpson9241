@@ -1,16 +1,51 @@
 ### Hi there 👋
 
-<!--
-**simpson9241/simpson9241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>😎 <b>developers/info.json</b></summary>
+<div>
+	
+  ```json
+  {
+    "apiVersion": "2022",
+    "nationality": "Korea",
+    "language": { 
+	    "most": "python",
+	    "sometimes": ["java", "c"]
+    },
+    "framework": {
+	    "most": {
+		    "name": "FastAPI",
+		    "using": "Uvicorn",
+		    "etc": ["Hasura"]
+	    }
+    },
+    "db": {
+	    "sql": ["postgresql"],
+	    "nosql": ["redis","dynamodb"]
+    },
+    "interestedIn": {
+	    "topics": ["aws_cloud_service", "media_encoding", "cloud_computing"]
+    },
+    "etc": {
+	    "mbti": "IS??"
+    }
+  }
+  ```
+</div>
+</details><br/>
 
-Here are some ideas to get you started:
+#### 📊 Recent My Activity..
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simpson9241&repo=study)](https://github.com/simpson9241/study) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simpson9241&repo=mp4_parser)](https://github.com/simpson9241/mp4_parser)
+
+<br/>
+
+<hr/>
+<br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=simpson9241&&style=flat-square"/>
+</div>  
+  
+<br/>

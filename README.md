@@ -15,13 +15,14 @@
     "framework": {
 	    "most": {
 		    "name": "FastAPI",
-		    "using": "Uvicorn",
+		    "using": "",
 		    "etc": ["Hasura"]
 	    }
     },
     "db": {
 	    "sql": ["postgresql"],
-	    "nosql": ["redis","dynamodb"]
+	    "nosql": ["redis","dynamodb"],
+      "etc": ["influxdb"]
     },
     "interestedIn": {
 	    "topics": ["aws_cloud_service", "media_encoding", "cloud_computing"]

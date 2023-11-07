@@ -6,11 +6,11 @@
 	
   ```json
   {
-    "apiVersion": "2022",
+    "apiVersion": "2023",
     "nationality": "Korea",
-    "language": { 
+    "language": {
 	    "most": "python",
-	    "sometimes": ["java", "c"]
+	    "sometimes": ["java", "c++"]
     },
     "framework": {
 	    "most": {
@@ -20,15 +20,15 @@
 	    }
     },
     "db": {
-	    "sql": ["postgresql"],
-	    "nosql": ["redis","dynamodb"],
-      "etc": ["influxdb"]
+	    "sql": ["MySQL"],
+	    "nosql": ["Redis","DynamoDB"],
+      "etc": ["InfluxDB"]
     },
     "interestedIn": {
-	    "topics": ["aws_cloud_service", "media_encoding", "cloud_computing"]
+	    "topics": ["aws_cloud_service", "media_encoding", "cloud_computing", "data pipeline"]
     },
     "etc": {
-	    "mbti": "IS??"
+	    "mbti": "ISTP"
     }
   }
   ```
